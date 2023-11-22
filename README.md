@@ -7,7 +7,7 @@ Esta atividade é para criar um aplicativo que obtém informações de usuários
 
 ![1](https://github.com/alexsabrasil/consumo-api-js/assets/113733583/2396493b-11ce-49c3-8d4e-e8facac3c1f7)
 
-
+![2](https://github.com/alexsabrasil/consumo-api-js/assets/113733583/ccc1c63d-10a7-4959-9f2f-b3c9b71598af)
 
 ## Passo a passo Projeto Node.js
 ###### A - Criar um novo diretório
