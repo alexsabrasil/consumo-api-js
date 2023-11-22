@@ -65,15 +65,15 @@ Esta atividade é para criar um aplicativo que obtém informações de usuários
     (Substitui o conteúdo de 'src/App.js'com o código para exibir os dados, usei o estado 'useState' para armazenar os dados obtidos da API  
     e renderizá- los na insterface do usuário).
 
-7 - Para iniciar o app React, executei:
+7 - Para iniciar o app React:
 
-    npm start 
+    Executar: npm start 
 
     (Vai iniciar o app React e abrirá automaticamente no navegador).
 
     Fim.
 
-## Subir o prjeto React para o GitHub
+## Subir o projeto React para o GitHub
 
 A - Iniciar um repositório Git localmente:
 
