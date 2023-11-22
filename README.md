@@ -1,5 +1,136 @@
-# [Atividade] Api request
+# [Atividade] Api request - Campinho Digital Progrmação Web Full Stack 2.2023
 
 ## consumo-api-js
-Campinho Digital: Programação Web Full Stack - Esta atividade é para criar um aplicativo que obtém informações de usuários do serviço JSONPlaceholder, uma API de teste para simular operações CRUD em uma API REST.
+Esta atividade é para criar um aplicativo que obtém informações de usuários do serviço JSONPlaceholder, uma API de teste para simular operações CRUD em uma API REST.
 
+## Passo a passo Projeto Node.js
+###### A - Criar um novo diretório
+###### B - No terminal do Git Bash executar: 
+
+    mkdir consumo-api-js 
+    cd consumo-api-js
+    npm 
+
+1 - Inicializar o projeto Node.js
+
+    executar o comando: npm init -y
+    
+2 - Instalar as bibliotecas necessárias:
+
+    executar o comando: npm install axios node-fetch superagent 
+    
+    (Para facilitar as chamadas à API, escolhi instalar a biblioteca axios. Para fazer 
+    requisições HTTP em JavaScript e para criação extra escolhi a biblioteca node-fetch incluindo a instalação do Superagent).
+
+3 - Criar o aplicativo para obter as informações de usuários do JSONPlaceholder:
+
+    Criar um arquivo chamado 'app.js'e adicionar ao código
+
+    (Para obter informações de usuários do serviço JSONPlaceholder, uma API de teste para simular operações CRUD em uma API REST, escolhi criar o app 
+     que faz a chamada à API usando axios e node-fetch)
+
+4 - Adicionei no App.css e index.html(Público):
+
+    Estrutura para criar a lista dos nomes dos usuários, as cores e footer
+    Com efeito hover ao passar o mouse sobre a lista 
+
+5 - Instalar nodemon:
+
+    Executar o comando: npm install -g nodemon
+    
+    (Escolhi o Nodemon por ser uma ferramenta que ajuda a desenvolver app baseados em Node.js, reiniciando automaticamente o app quando os 
+    arquivos são modificados).
+
+    Em seguida para que pudesse executar o app com Nodemon, substitui o script 'scripts' no meu 'package.json' por:
+
+    "scripts": {
+        "start": "nodemon app.js"
+    }
+
+6 - Funcionalidade extra: Exibir dados na tela com React:
+
+    Antes precisei configurar o projeto React separado
+
+    Execute o comando:
+
+    npx create-react-app consumo-api-react
+    cd consumo-api-react
+
+    (Substitui o conteúdo de 'src/App.js'com o código para exibir os dados, usei o estado 'useState' para armazenar os dados obtidos da API  
+    e renderizá- los na insterface do usuário).
+
+7 - Para iniciar o app React, executei:
+
+    npm start 
+
+    (Vai iniciar o app React e abrirá automaticamente no navegador).
+
+    Fim.
+
+## Subir o prjeto React para o GitHub
+
+A - Iniciar um repositório Git localmente:
+
+    Abrir o terminal no diretório do projeto no Git Bash
+
+    Executar o comando:
+
+    git init
+
+B - Adicionar todos os arquivos ao controle de versão:
+
+    git add .
+
+C - Realizar o commit dos arquivos:
+
+    git commit -m "inicializando o projeto"
+
+D - Criar um repositório no GitHub:
+
+    Acessar o GitHub 
+    Preencha as informações do repositório e clicar em 'Create repository'
+
+E - Conecte seu repositório local ao repositório remoto no GitHub:
+
+   Copiar o link do repositório remoto
+
+   git remote add origin <seu-link-remoto-do-github>
+
+F - Enviar os arquivos para o GitHub:
+
+    git branch (Verificar as Branches exitentes)
+    
+    git checkout -b main (Criar Branch "main" localmente)
+
+    git add . (Adicione para fazer o commit das mudanças)
+
+    git commit -m "mensagem-commit" (Fazer o commit)
+
+    git push -u origin main (Fazer o Push para o repositório remoto)
+    
+##### Configurar Identidade Global e Configurar Identidade Localmente (Apenas para este repositório):
+
+    git config --global user.email "alexsa.tecnolog@gmail.com"
+    git config --global user.name "Alexsa"
+
+    git config user.email "alexsa.tecnolog@gmail.com" 
+    git config user.name "Alexsa"
+
+G - Tentar novamente o Commit:
+
+    git commit -m "projeto-consumo-api" (Depois que configurei a minha identidade, pude tentar o commit novamente)
+    git push -u origin main (Após o commit executar o push)
+
+
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
