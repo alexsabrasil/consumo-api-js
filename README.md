@@ -8,11 +8,20 @@ Esta atividade é para criar um aplicativo que obtém informações de usuários
 
 ## Funcionalidade da API JASONPlaceholder:
 
-A JSONPlaceholder é uma API REST de teste que fornece um ambiente simulado para operações CRUD (Create, Read, Update, Delete), possibilitando interações fictícias com dados de vários recursos, como usuários, postagens e comentários. Este desafio utiliza especificamente os dados de usuários disponíveis na API.
+A **JSONPlaceholder** é uma API REST de teste que proporciona um ambiente simulado para operações CRUD (Create, Read, Update, Delete). Isso permite interações fictícias com dados de vários recursos, como usuários, postagens e comentários. Este desafio foca especificamente nos dados de usuários disponíveis na API.
 
-No âmbito deste desafio, a tarefa consiste em criar um aplicativo capaz de consumir os dados da API JSONPlaceholder. A função principal a ser implementada é exibir informações de usuários no console por meio da expressão console.log('Usuários:'). Adicionalmente, são propostas duas funcionalidades extras: o uso do pacote nodemon para facilitar o desenvolvimento e a integração com React para exibição dos dados na tela.
+## Tarefa
 
-Portanto, o objetivo primário é praticar a obtenção e exibição de dados provenientes da API JSONPlaceholder. As funcionalidades extras, como a utilização do nodemon e a integração com React, são opcionais, mas podem ser implementadas para aprimorar o processo de desenvolvimento e  renderizar os dados do usuário na tela.
+O objetivo principal deste desafio é criar um aplicativo capaz de consumir os dados da API JSONPlaceholder. A função principal a ser implementada é exibir informações de usuários no console através da expressão `console.log('Usuários:')`. Adicionalmente, são propostas duas funcionalidades extras:
+
+1. Utilização do pacote **nodemon** para facilitar o desenvolvimento.
+2. Integração com **React** para exibição dos dados na tela.
+
+As funcionalidades extras são opcionais, escolhi implementar para aprimorar o processo de desenvolvimento e renderizar os dados do usuário na tela.
+
+## Considerações
+
+Este desafio oferece uma oportunidade prática para praticar a obtenção e exibição de dados provenientes da API JSONPlaceholder. 
 
 Observações:
 
@@ -145,11 +154,11 @@ G - Tentar novamente o Commit:
     git commit -m "projeto-consumo-api" (Depois que configurei a minha identidade, pude tentar o commit novamente)
     git push -u origin main (Após o commit executar o push)
 
-H - Erros cometidos:
+## Erros cometidos:
 
     Vários entre eles, compreender a crição do diretório, implematar os critérios estabelicidos até chegar neste resultado final.
 
-I - Ajuda necessária:
+## Ajuda necessária:
 
     Orientação da instrutora e monitores do curso Programação Web Full Stack, fórum, amigas, documentações oficiais de ferramentas react,json,
     node.js e api. 
