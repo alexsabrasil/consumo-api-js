@@ -156,12 +156,15 @@ G - Tentar novamente o Commit:
 
 ## Erros cometidos:
 
-    Vários entre eles, compreender a crição do diretório, implematar os critérios estabelicidos até chegar neste resultado final.
+    Durante o desenvolvimento deste projeto, cometi vários erros, incluindo dificuldades na compreensão da criação do diretório e na implementação dos 
+    critérios estabelecidos. Estes erros foram parte do processo de aprendizado e evolução ao longo do projeto.
 
 ## Ajuda necessária:
 
-    Orientação da instrutora e monitores do curso Programação Web Full Stack, fórum, amigas, documentações oficiais de ferramentas react,json,
-    node.js e api. 
+    Para superar os desafios encontrados, busquei orientação da instrutora e monitores do curso de Programação Web Full Stack. Além disso, recorri ao 
+    fórum da comunidade, contei com a colaboração de colegas de curso, mas também com ajuda de amigas externas à minha turma e fora eles consultei as 
+    documentações oficiais das ferramentas utilizadas, como React, JSON, Node.js e a API em questão. A colaboração e suporte dessas fontes foram 
+    fundamentais para a resolução dos problemas e para meu desenvolvimento durante este projeto.
     
 
     
