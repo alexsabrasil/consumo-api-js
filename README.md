@@ -6,9 +6,22 @@ Esta atividade é para criar um aplicativo que obtém informações de usuários
 
 ##
 
+## Funcionalidade da API JASONPlaceholder:
 
+A JSONPlaceholder é uma API REST de teste que fornece um ambiente simulado para operações CRUD (Create, Read, Update, Delete), possibilitando interações fictícias com dados de vários recursos, como usuários, postagens e comentários. Este desafio utiliza especificamente os dados de usuários disponíveis na API.
 
-## Resultados Visuais: 
+No âmbito deste desafio, a tarefa consiste em criar um aplicativo capaz de consumir os dados da API JSONPlaceholder. A função principal a ser implementada é exibir informações de usuários no console por meio da expressão console.log('Usuários:'). Adicionalmente, são propostas duas funcionalidades extras: o uso do pacote nodemon para facilitar o desenvolvimento e a integração com React para exibição dos dados na tela.
+
+Portanto, o objetivo primário é praticar a obtenção e exibição de dados provenientes da API JSONPlaceholder. As funcionalidades extras, como a utilização do nodemon e a integração com React, são opcionais, mas podem ser implementadas para aprimorar o processo de desenvolvimento e  renderizar os dados do usuário na tela.
+
+Observações:
+
+- A API é gratuita e não requer autenticação.
+- O método HTTP GET é utilizado para fazer solicitações e obter respostas em formato JSON.
+
+##
+
+## Resultados visual do API REST: 
 
 ![1](https://github.com/alexsabrasil/consumo-api-js/assets/113733583/2396493b-11ce-49c3-8d4e-e8facac3c1f7)
 
@@ -132,9 +145,14 @@ G - Tentar novamente o Commit:
     git commit -m "projeto-consumo-api" (Depois que configurei a minha identidade, pude tentar o commit novamente)
     git push -u origin main (Após o commit executar o push)
 
+H - Erros cometidos:
 
+    Vários entre eles, compreender a crição do diretório, implematar os critérios estabelicidos até chegar neste resultado final.
 
+I - Ajuda necessária:
 
+    Orientação da instrutora e monitores do curso Programação Web Full Stack, fórum, amigas, documentações oficiais de ferramentas react,json,
+    node.js e api. 
     
 
     
