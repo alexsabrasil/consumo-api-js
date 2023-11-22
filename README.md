@@ -1,9 +1,14 @@
-# [Atividade] Api request - Campinho Digital Progrmação Web Full Stack 2.2023
+# [Atividade] Api request - Campinho Digital Programação Web Full Stack 2.2023
 
-## consumo-api-js
+### Desafio: consumo-api-js: 
+
 Esta atividade é para criar um aplicativo que obtém informações de usuários do serviço JSONPlaceholder, uma API de teste para simular operações CRUD em uma API REST.
 
-## Resultados: 
+##
+
+
+
+## Resultados Visuais: 
 
 ![1](https://github.com/alexsabrasil/consumo-api-js/assets/113733583/2396493b-11ce-49c3-8d4e-e8facac3c1f7)
 
