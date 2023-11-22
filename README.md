@@ -3,6 +3,12 @@
 ## consumo-api-js
 Esta atividade é para criar um aplicativo que obtém informações de usuários do serviço JSONPlaceholder, uma API de teste para simular operações CRUD em uma API REST.
 
+## Resultados: 
+
+![1](https://github.com/alexsabrasil/consumo-api-js/assets/113733583/2396493b-11ce-49c3-8d4e-e8facac3c1f7)
+
+
+
 ## Passo a passo Projeto Node.js
 ###### A - Criar um novo diretório
 ###### B - No terminal do Git Bash executar: 
