@@ -156,8 +156,9 @@ G - Tentar novamente o Commit:
 
 ## Erros cometidos:
 
-    Durante o desenvolvimento deste projeto, cometi vários erros, incluindo dificuldades na compreensão da criação do diretório e na implementação dos 
-    critérios estabelecidos. Estes erros foram parte do processo de aprendizado e evolução ao longo do projeto.
+    Durante o desenvolvimento deste projeto, cometi vários erros, incluindo dificuldades na compreensão da criação do diretório, como usar um 
+    servidor, terminal e na implementação dos critérios estabelecidos. Estes erros foram parte do processo de aprendizado e evolução ao longo do 
+    projeto.
 
 ## Ajuda necessária:
 
